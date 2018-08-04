@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>res/icons/mail-forward-all.svg</file>
+        <file>res/icons/mail-forward-custom-all.svg</file>
+        <file>res/icons/mail-forward.svg</file>
+        <file>res/icons/mail-forwarded.svg</file>
+        <file>res/icons/mail-mark-read.svg</file>
+        <file>res/icons/mail-message-new.svg</file>
+        <file>res/icons/mail-receive.svg</file>
+        <file>res/icons/mail-replied.svg</file>
+        <file>res/icons/mail-reply-all.svg</file>
+        <file>res/icons/mail-reply-custom-all.svg</file>
+        <file>res/icons/mail-reply-custom.svg</file>
+        <file>res/icons/mail-reply-list.svg</file>
+        <file>res/icons/mail-reply-sender.svg</file>
+        <file>res/icons/mail-send-receive.svg</file>
+        <file>res/icons/mail-send.svg</file>
+        <file>res/icons/mail-sent.svg</file>
+        <file>res/icons/dialog-text-and-font.svg</file>
+        <file>res/icons/edit-copy.svg</file>
+        <file>res/icons/edit-cut.svg</file>
+        <file>res/icons/edit-paste.svg</file>
+        <file>res/icons/edit-redo.svg</file>
+        <file>res/icons/face-smile.svg</file>
+        <file>res/icons/format-text-bold.svg</file>
+        <file>res/icons/format-text-color.svg</file>
+        <file>res/icons/format-text-underline.svg</file>
+        <file>res/icons/SlimMailIcon.svg</file>
+        <file>res/icons/SlimMailIcon.png</file>
+    </qresource>
+</RCC>
